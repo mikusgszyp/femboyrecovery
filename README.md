@@ -1,11 +1,9 @@
 Femboy Recovery Project Files.
 
 
-pbrp based - based on pitchblack recovery project
+PBRP Based - Based on PitchBlack Recovery Project
 
-twrp based - based on teamwin recovery project
-
-Res patch: ramdisk/twres
+TWRP Based - Based on TeamWin Recovery Project
 
 
 ++RECOVERY FILES FROM REDMI 8++
