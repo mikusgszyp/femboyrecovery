@@ -1,4 +1,5 @@
 ![Screenshot](power_logo.png)
+
 Femboy Recovery Project Files.
 
 
@@ -9,7 +10,6 @@ TWRP Based - Based on TeamWin Recovery Project
 
 ++RECOVERY FILES FROM REDMI 8++
 
-We are not responsible for any damage done to 
 ![Screenshot](Brick.png)
 
 We are not responsible for anything that may happen to your phone by installing any custom ROMs, Recoveries and/or kernels.
